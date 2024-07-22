@@ -6,7 +6,7 @@ Just another balancing robot... but with hair! :-)
 The bot is using stepper motors, an accelerometer/gyro and a pid loop programmed in Arduino IDE for an AtMega328p.<br>
 The bot can be controlled using a Bluetooth, i recommend the app 'Arduino Bluetooth RC Car' for Android (not tested with IPhone).
 
-The source code and build instructions (german language only at the moment) are included in a PDF<br>
+The source code and build instructions (german language only at the moment) are included in a PDF: [Build Instruktions](Balancing%20Bot%20instructions.pdf)<br>
 
 Programming the HC-05 module with these instructions:<br>
 (from https://www.instructables.com/Modify-The-HC-05-Bluetooth-Module-Defaults-Using-A/)<br>
@@ -48,3 +48,14 @@ I used an Kossel XL and a 0.25mm nozzle<br>
 
 Material: PLA<br>
 The tire have to be printed in a flexible material (i used Ninjaflex), or you can print tires and wheels as one part in PLA.
+
+![Bot_Parts](./3d_printable_parts/images/Bot_Parts.png "Bot Parts")
+![Bot_v238](./3d_printable_parts/images/Bot_v238.gif "Bot v238")
+![simulation2](./3d_printable_parts/images/simulation2.gif "simulation2")
+![development1](./3d_printable_parts/images/development1.jpg "development1")
+![bots_parts_on_table](./3d_printable_parts/images/bots_parts_on_table.jpg "bots_parts_on_table")
+![bots_in_action](./3d_printable_parts/images/bots_in_action.jpg "bots_in_action")
+![bot_yellow](./3d_printable_parts/images/bot_yellow.jpg "bot_yellow")
+![bot_pink](./3d_printable_parts/images/bot_pink.jpg "bot_pink")
+![bot_on_buildplate](./3d_printable_parts/images/bot_on_buildplate.jpg "bot_on_buildplate")
+![hair](./3d_printable_parts/images/hair.jpg "hair")
